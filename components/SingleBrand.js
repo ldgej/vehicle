@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link';
 
-
+//
 export const SingleBrand=({car,onDelete})=> {
      const { fields,sys }=car;
      const { id }=sys;
