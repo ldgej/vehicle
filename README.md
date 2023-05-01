@@ -9,4 +9,4 @@ To run the project
 5. Run “ npm install “
 6. Wait for several minutes until it is done
 7. Run "npm run dev" and wait for it comple successfully
-8. Go to  localhost:3000/carbrand               and this is the main page
+8. Go to  localhost:3000/carbrand  (remember to add "/carbrand")  and this is the main page
